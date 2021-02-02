@@ -1,0 +1,6 @@
+printf("%s\n", map->matrice[k]);
+pip list
+pip show numpy
+pip search 'tesseract'
+pip list --format=freeze > requirements.txt
+
